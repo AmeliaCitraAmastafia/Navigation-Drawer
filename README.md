@@ -1,6 +1,16 @@
 # NavDrawerApp - Simulasi Navigation Drawer
 ## Android Jetpack Compose Project
 
+
+<img  height="340" alt="Screenshot_20260726_125438_Navigation Drawer App" src="https://github.com/user-attachments/assets/7c4a746b-d599-4551-9a0f-81fbcbd0f028" />
+<img  height="340" alt="Screenshot_20260726_125432_Navigation Drawer App" src="https://github.com/user-attachments/assets/c811d131-201e-43e5-bc14-819588036250" />
+<img  height="340" alt="Screenshot_20260726_125447_Navigation Drawer App" src="https://github.com/user-attachments/assets/5c3425a6-9601-46bc-b6bd-874462ff568c" />
+<img  height="340" alt="Screenshot_20260726_125507_Navigation Drawer App" src="https://github.com/user-attachments/assets/f7ffcf00-b952-4845-bcf7-56f94f897cf6" />
+<img  height="340" alt="Screenshot_20260726_125511_Navigation Drawer App" src="https://github.com/user-attachments/assets/b673fd49-dedb-4676-a2f1-aaed2ca8db6c" />
+
+
+---
+
 ### Deskripsi
 Aplikasi Android yang mendemonstrasikan implementasi **Navigation Drawer** 
 menggunakan Jetpack Compose dan Material3.
@@ -87,6 +97,4 @@ Screen1  Screen2  Screen3
 Semua warna tersimpan di `res/values/color.xml` dan diduplikasi 
 di `Color.kt` untuk penggunaan di Compose.
 
----
 
-Copyright Disiapkan oleh Kukuh Yudhistiro - 2026
